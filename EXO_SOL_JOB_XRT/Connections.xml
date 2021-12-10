@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Connection>
+  <ACTUALIZAR CAMPOS="N"/>
+  <HANA Server="xper-test01:30015" DbUser="B1SLDUSER" DbPwd="Password2018" databaseName="SOL_AUTORIZ" providerName="Sap.Data.Hana"/>
+  <DI Server="xper-test01:30015" LicenseServer="xper-test01:40000" CompanyDB="SOL_AUTORIZ" UserName="mperiz" Password="M@rt1nN1c0" DbUserName="B1SQLUSER" DbPassword="12eXo$18"/>
+  <FTP ENVIAR="Y" URL="sif.sagetreasurysaas.es" PUERTO=":990" US="5189" PASS="BEXP3eZr" PREVORI="/POBORRAP/" PREVCONF="/PREVICON/" SAP="/EXPORFLU/"/>
+</Connection>
